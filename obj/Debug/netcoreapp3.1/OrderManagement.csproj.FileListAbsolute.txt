@@ -1,0 +1,13 @@
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.exe
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.deps.json
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.json
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.dev.json
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.dll
+C:\Users\Systems\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.pdb
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csprojAssemblyReference.cache
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfoInputs.cache
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfo.cs
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.dll
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.pdb
+C:\Users\Systems\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.genruntimeconfig.cache
